@@ -105,8 +105,7 @@ This project consists of 3 main parts:
 
 ### Backend (Future)
 
-- Ruby on Rails API (preferred)
-- or Supabase for fast MVP iteration
+- Ruby on Rails API.
 
 ---
 
