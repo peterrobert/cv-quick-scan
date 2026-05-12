@@ -122,10 +122,6 @@ This project consists of 3 main parts:
 
 ---
 
-## 📊 Output Example
-
----
-
 ## 🎯 Target Users
 
 - Recruiters
